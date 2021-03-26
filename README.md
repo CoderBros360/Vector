@@ -1,5 +1,5 @@
 # Vector
-A bot with mutiple purpose bot made by node.js
+A bot with mutiple purpose bot made with node.js
 # Set up
 Go and rename config-sample.json to config.json
 And fill up the information
